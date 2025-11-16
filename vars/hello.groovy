@@ -1,1 +1,3 @@
-hello("This is Vrushabh")
+def hello(){
+  hello("This is Vrushabh")
+}
