@@ -1,3 +1,3 @@
 def hello(){
-  hello("This is Vrushabh")
+  echo "This is Vrushabh"
 }
